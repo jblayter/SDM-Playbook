@@ -1,9 +1,8 @@
-# 🤝 Facilitating Collaboration Playbook
+# Facilitating Collaboration Playbook
 
 **Purpose:**  
 Enable effective collaboration within the team and across functions (product, design, stakeholders) by creating structures and habits that make communication clear, decisions faster, and teamwork frictionless.  
 
----
 
 ## 1. Detect / Identify
 - Team silos forming (“that’s not my job” mindset).  
@@ -11,17 +10,15 @@ Enable effective collaboration within the team and across functions (product, de
 - Product/design/engineering disagreements slowing delivery.  
 - Decisions taking too long or being revisited repeatedly.  
 
----
 
 ## 2. Categorize
 | Category                | Examples                                              | Response Tactic |
-|-------------------------|-------------------------------------------------------|-----------------|
+|-|-|--|
 | **Intra-Team**          | Engineers not sharing context, duplicate work         | Introduce shared docs, pair programming, async updates |
 | **Cross-Functional**    | Misaligned priorities between product/engineering     | Co-create roadmaps, use RACI for clarity |
 | **Decision-Making**     | Endless debates, unclear owner                        | Assign DRI (Directly Responsible Individual), use decision logs |
 | **Information Flow**    | Updates scattered, stakeholders out of the loop       | Establish single source of truth (Slack channel, Confluence page) |
 
----
 
 ## 3. Act / Execute
 - **Set Collaboration Norms**  
@@ -41,7 +38,6 @@ Enable effective collaboration within the team and across functions (product, de
   - Encourage pairing/peer reviews for shared learning.  
   - Model healthy conflict resolution — disagree in the room, align outside it.  
 
----
 
 ## 4. Prevent Recurrence / Continuous Improvement
 - Review collaboration friction in retrospectives.  
@@ -49,7 +45,6 @@ Enable effective collaboration within the team and across functions (product, de
 - Collect anonymous feedback quarterly on “team collaboration health.”  
 - Sunset rituals that don’t add value (keep collaboration lean).  
 
----
 
 ## 5. Ritual Cadence
 - **Daily:** Async standups or Slack threads for visibility.  
@@ -57,11 +52,10 @@ Enable effective collaboration within the team and across functions (product, de
 - **Bi-Weekly:** Demo day or knowledge-sharing session.  
 - **Quarterly:** Collaboration health survey + retro.  
 
----
 
 ## 6. Example Messages / Templates
 **Kickoff Reminder (Slack):**  
-> 🚀 Project kickoff at 10am! We’ll align on goals, owners, and next steps. Agenda: 1) Scope, 2) Roles, 3) Risks, 4) Timeline.  
+> Project kickoff at 10am! We'll align on goals, owners, and next steps. Agenda: 1) Scope, 2) Roles, 3) Risks, 4) Timeline.  
 
 **Decision Log Entry (Confluence):**  
 > **Decision:** Adopt database migration tool X.  
@@ -72,7 +66,6 @@ Enable effective collaboration within the team and across functions (product, de
 **Collaboration Check-In Question (Retro):**  
 > On a scale of 1–5, how easy was it to collaborate across roles this sprint?  
 
----
 
 ## Success Metric
-👉 Collaboration feels frictionless: fewer silos, faster decisions, less rework. Measured through retro scores, cross-team feedback, and reduced cycle time for projects.
+Collaboration feels frictionless: fewer silos, faster decisions, less rework. Measured through retro scores, cross-team feedback, and reduced cycle time for projects.

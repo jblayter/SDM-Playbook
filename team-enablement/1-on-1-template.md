@@ -3,7 +3,6 @@
 **Cadence:** Weekly/Bi-Weekly (30–45 minutes)  
 **Purpose:** Dedicated time for [Employee Name] to share progress, raise concerns, and align on growth.  
 
----
 
 ## Standing Agenda
 1. Personal Check-In (5 min)  
@@ -12,7 +11,6 @@
 4. Feedback Exchange (5–10 min)  
 5. Wrap-Up & Next Steps (5 min)  
 
----
 
 ## Running Log
 
@@ -34,7 +32,6 @@
 **Agreed Action Items:**  
 - [ ]  
 
----
 
 ### [Date]
 **Personal Check-In:**  
@@ -54,9 +51,8 @@
 **Agreed Action Items:**  
 - [ ]  
 
----
 
-## 📈 Quarterly Reflection
+## Quarterly Reflection
 **Career Goals:**  
 -  
 
