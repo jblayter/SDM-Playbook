@@ -11,12 +11,12 @@ Continuously improve the team’s processes, collaboration, and delivery by refl
 
 
 ## 2. Categorize
-| Format              | Description                                   | When to Use |
-||--|-|
-| **Start/Stop/Continue** | Simple, focuses on immediate habits        | Short sprints, new teams |
-| **4Ls (Liked, Learned, Lacked, Longed For)** | Broader reflection | Teams exploring growth and culture |
-| **Sailboat**        | Visual: wind (helped), anchors (slowed), rocks (risks), island (goal) | Creative teams or complex projects |
-| **Mad/Sad/Glad**    | Emotional check-in, uncover morale issues     | Burnout or conflict risk |
+| Format                        | Description                                                                 | When to Use                          |
+|-------------------------------|-----------------------------------------------------------------------------|--------------------------------------|
+| **Start/Stop/Continue**       | Simple, focuses on immediate habits                                         | Short sprints, new teams             |
+| **4Ls (Liked, Learned, Lacked, Longed For)** | Broader reflection                                                    | Teams exploring growth and culture   |
+| **Sailboat**                  | Visual: wind (helped), anchors (slowed), rocks (risks), island (goal)       | Creative teams or complex projects   |
+| **Mad/Sad/Glad**              | Emotional check-in, uncover morale issues                                   | Burnout or conflict risk             |
 
 
 ## 3. Act / Execute
