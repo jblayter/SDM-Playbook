@@ -1,11 +1,11 @@
-# 👥 1:1 Notes – [Employee Name]
+# 1:1 Notes – [Employee Name]
 
 **Cadence:** Weekly/Bi-Weekly (30–45 minutes)  
 **Purpose:** Dedicated time for [Employee Name] to share progress, raise concerns, and align on growth.  
 
 ---
 
-## 🌱 Standing Agenda
+## Standing Agenda
 1. Personal Check-In (5 min)  
 2. Current Work & Blockers (10–15 min)  
 3. Career & Growth (10–15 min)  
@@ -14,7 +14,7 @@
 
 ---
 
-## 📝 Running Log
+## Running Log
 
 ### [Date]
 **Personal Check-In:**  
