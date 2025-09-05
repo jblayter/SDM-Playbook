@@ -28,7 +28,7 @@ You create an environment where engineers can do their best work. This includes:
 
 You align engineering execution with product and business goals. This includes:
 
-* **Translating company vision into technical direction** - Making the abstract concrete
+* **[Translating company vision into technical direction](./strategy/vision-to-direction.md)** - Making the abstract concrete
 * **[Prioritizing work that matters](./strategy/README.md)** - Focusing effort on high-impact initiatives
 * **Balancing tech debt, velocity, and quality** - Managing the engineering triangle
 * **[Guiding architecture decisions](/systemdesign/system-design.md)** - Ensuring scale and maintainability
@@ -61,6 +61,8 @@ This repository contains practical tools and frameworks to support effective sof
 ### Strategy
 - **[Prioritizing Work That Matters Playbook](./strategy/README.md)** – Focusing effort on high-impact initiatives aligned with company strategy
 - **[Communicating Engineering Health](./strategy/engineering-health.md)** – How to measure, interpret, and communicate engineering velocity, quality, and risk in business terms
+- **[Translating Company Vision into Technical Direction](./strategy/vision-to-direction.md)** – Bridge the gap between abstract company strategy and concrete engineering work; actionable frameworks and clarifying questions for aligning daily engineering with long-term business goals
+
 
 ## Philosophy
 
