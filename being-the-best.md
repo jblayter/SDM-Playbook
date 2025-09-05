@@ -87,7 +87,7 @@ The goal isn't to be perfect, it's to be trusted, consistent, and growth-minded 
 
 ## Integrating It All
 
-### Final Project: Build a 90-day leadership plan that addresses:
+### Build a 90-day leadership plan that addresses:
 * **Your team's career development roadmap** - Clear paths and milestones for each team member
 * **Executive visibility/reporting strategy** - How you'll communicate progress and value
 * **Cross-functional alignment rituals** - Regular touchpoints with product, design, and other stakeholders
