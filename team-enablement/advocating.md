@@ -12,12 +12,12 @@ Ensure that the team’s needs, accomplishments, and challenges are consistently
 
 
 ## 2. Categorize
-| Category               | Examples                                                 | Response Tactic |
-||-|--|
-| **Recognition**        | Team ships critical features but credit goes elsewhere   | Highlight team wins in all-hands, send kudos to leadership |
-| **Resourcing**         | Overload due to lack of headcount or tooling             | Build a data-backed case for hiring/tools, escalate needs early |
-| **Protection**         | Engineers pulled into low-value tasks                    | Redirect work, push back on scope creep, negotiate trade-offs |
-| **Voice in Decisions** | Roadmaps made without engineering feasibility considered | Ensure engineering participates in planning, speak up on risks |
+| Category               | Examples                                                 | Response Tactic                                                                 |
+|------------------------|---------------------------------------------------------|---------------------------------------------------------------------------------|
+| **Recognition**        | Team ships critical features but credit goes elsewhere   | Highlight team wins in all-hands, send kudos to leadership                      |
+| **Resourcing**         | Overload due to lack of headcount or tooling             | Build a data-backed case for hiring/tools, escalate needs early                  |
+| **Protection**         | Engineers pulled into low-value tasks                    | Redirect work, push back on scope creep, negotiate trade-offs                    |
+| **Voice in Decisions** | Roadmaps made without engineering feasibility considered | Ensure engineering participates in planning, speak up on risks                   |
 
 
 ## 3. Act / Execute
