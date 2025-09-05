@@ -8,7 +8,7 @@ As a Software Development Manager, my role centers on being a team enabler, stra
 
 You create an environment where engineers can do their best work. This includes:
 
-* **Removing blockers** - Identifying and eliminating obstacles that prevent progress
+* **[Removing blockers](./team-enablement/remove-blockers.md)** - Identifying and eliminating obstacles that prevent progress
 * **Facilitating collaboration** - Creating opportunities for cross-functional teamwork
 * **Advocating for your team** - Representing team needs and achievements across functions
 * **Establishing healthy rituals** - Implementing retros, standups, and 1:1s that drive value
