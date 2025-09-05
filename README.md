@@ -1,6 +1,6 @@
 # SDM Playbook
 
-# Why Being an SDM Matters
+## Why Being an SDM Matters
 
 > *"One of the most meaningful aspects in life is being in service to other human beings."*
 
