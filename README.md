@@ -37,6 +37,7 @@ This repository contains practical tools and frameworks to support effective sof
 
 - **[Being the Best Software Engineering Manager](./being-the-best.md)** – Principles and actionable frameworks for world-class engineering leadership
 - **[System Design Playbook](./systemdesign/system-design.md)** – Comprehensive guide for technical architecture discussions and interviews
+- **[Quick Scalable Feature Checklist](./systemdesign/quick-sd-checklist.md)** – Pre-merge checklist for scalable, reliable, and maintainable features
 
 ### Team Enablement
 - **[Removing Blockers](./team-enablement/remove-blockers.md)** – Identifying and eliminating obstacles that prevent progress
