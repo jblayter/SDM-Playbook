@@ -35,9 +35,20 @@ You develop people and grow careers. This includes:
 
 This repository contains practical tools and frameworks to support effective software development management:
 
-- **[Being the Best Software Engineering Manager](./being-the-best.md)** - Principles and actionable frameworks for world-class engineering leadership
+- **[Being the Best Software Engineering Manager](./being-the-best.md)** – Principles and actionable frameworks for world-class engineering leadership
+- **[System Design Playbook](./systemdesign/system-design.md)** – Comprehensive guide for technical architecture discussions and interviews
 
-- **[System Design Playbook](./systemdesign/system-design.md)** - Comprehensive guide for technical architecture discussions and interviews
+### Team Enablement
+- **[Removing Blockers](./team-enablement/remove-blockers.md)** – Identifying and eliminating obstacles that prevent progress
+- **[Facilitating Collaboration](./team-enablement/facilitate-collaboration.md)** – Creating opportunities for cross-functional teamwork
+- **[Advocating for Your Team](./team-enablement/advocating.md)** – Representing team needs and achievements across functions
+- **[Sprint Retrospectives Playbook](./team-enablement/retros.md)** – Running effective retrospectives for continuous improvement
+- **[1:1 Meetings Playbook](./team-enablement/1-on-1.md)** – Building trust and supporting growth through regular 1:1s
+- **[1:1 Notes Template](./team-enablement/1-on-1-template.md)** – Ready-to-use template for tracking 1:1s
+
+### Strategy
+- **[Prioritizing Work That Matters Playbook](./strategy/README.md)** – Focusing effort on high-impact initiatives aligned with company strategy
+
 
 
 ## Philosophy
