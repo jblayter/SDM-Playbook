@@ -9,9 +9,9 @@ As a Software Development Manager, my role centers on being a team enabler, stra
 You create an environment where engineers can do their best work. This includes:
 
 * **[Removing blockers](./team-enablement/remove-blockers.md)** - Identifying and eliminating obstacles that prevent progress
-* **Facilitating collaboration** - Creating opportunities for cross-functional teamwork
-* **Advocating for your team** - Representing team needs and achievements across functions
-* **Establishing healthy rituals** - Implementing retros, standups, and 1:1s that drive value
+* **[Facilitating collaboration](./team-enablement/facilitate-collaboration.md)** - Creating opportunities for cross-functional teamwork
+* **[Advocating for your team](./team-enablement/advocating.md)** - Representing team needs and achievements across functions
+* **Establishing healthy rituals** - [Implementing retros](./team-enablement/retros.md), standups, and [1:1s](/team-enablement/1-on-1.md) that drive value
 
 ## 2. Strategic Navigator
 
@@ -20,7 +20,7 @@ You align engineering execution with product and business goals. This includes:
 * **Translating company vision into technical direction** - Making the abstract concrete
 * **Prioritizing work that matters** - Focusing effort on high-impact initiatives
 * **Balancing tech debt, velocity, and quality** - Managing the engineering triangle
-* **Guiding architecture decisions** - Ensuring scale and maintainability
+* **[Guiding architecture decisions](/systemdesign/system-design.md)** - Ensuring scale and maintainability
 
 ## 3. Growth Mentor
 
