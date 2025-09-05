@@ -1,4 +1,4 @@
-# ⚙️ Scalable Feature Checklist (Quick Pass)
+# Scalable Feature Checklist (Quick Pass)
 
 > Use this before merging any feature that affects data, APIs, or infra. Treat each section as **Go/No-Go gates**.
 
