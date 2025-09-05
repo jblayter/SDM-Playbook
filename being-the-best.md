@@ -16,8 +16,8 @@ The goal isn't to be perfect, it's to be trusted, consistent, and growth-minded 
 * **Recognition** - Celebrating wins, both big and small, to reinforce positive behaviors
 
 ### Practices
-* **Run consistent 1:1s** with action-oriented follow-ups
-* **Track career growth goals** and align projects with them
+* **[Run consistent 1:1s](/team-enablement/1-on-1.md)** with action-oriented follow-ups
+* **[Track career growth goals](./team-enablement/1-on-1-template.md)** and align projects with them
 * **Balance autonomy with support** — "guide, don't micromanage"
 * **Learn how each team member defines success**
 
@@ -30,7 +30,7 @@ The goal isn't to be perfect, it's to be trusted, consistent, and growth-minded 
 **Focus**: Show clarity, execution, and strategic alignment.
 
 ### Topics
-* **Communicating engineering health** - Velocity, quality, risks in business terms
+* **[Communicating engineering health](./strategy/engineering-health.md)** - Velocity, quality, risks in business terms
 * **Building trust with data** - Dashboards, metrics, OKRs that tell a clear story
 * **Translating technical initiatives** into business outcomes
 * **Escalation vs. ownership** - When to raise issues, when to solve them
@@ -50,7 +50,7 @@ The goal isn't to be perfect, it's to be trusted, consistent, and growth-minded 
 **Focus**: Build credibility, alignment, and shared ownership.
 
 ### Topics
-* **RACI and communication frameworks** for effective collaboration
+* **RACI and [communication frameworks](https://noahlk.medium.com/key-communication-frameworks-for-individual-contributors-e18142a2c66f)** for effective collaboration
 * **Product–engineering balance** - Scope, timelines, quality trade-offs
 * **Negotiating trade-offs transparently** - Making decisions visible and understood
 * **Storytelling with data and context** for non-technical partners

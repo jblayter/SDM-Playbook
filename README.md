@@ -60,8 +60,7 @@ This repository contains practical tools and frameworks to support effective sof
 
 ### Strategy
 - **[Prioritizing Work That Matters Playbook](./strategy/README.md)** – Focusing effort on high-impact initiatives aligned with company strategy
-
-
+- **[Communicating Engineering Health](./strategy/engineering-health.md)** – How to measure, interpret, and communicate engineering velocity, quality, and risk in business terms
 
 ## Philosophy
 
