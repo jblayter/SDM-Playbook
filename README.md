@@ -1,5 +1,16 @@
 # SDM Playbook
 
+# Why Being an SDM Matters
+
+> *"One of the most meaningful aspects in life is being in service to other human beings."*
+
+At its core, the Software Development Manager role is about service.  
+- Service to **your team**, by removing blockers, guiding growth, and celebrating wins.  
+- Service to **your peers and partners**, by building alignment and collaboration across product, design, and stakeholders.  
+- Service to **the organization**, by ensuring engineering effort delivers meaningful impact.  
+
+The "why" of being an SDM isn't just about output or delivery ... it’s about enabling people to do their best work, fostering growth, and building trust. When we lead with service, the outcomes naturally follow.
+
 ## What does it mean to be a Software Development Manager
 
 As a Software Development Manager, my role centers on being a team enabler, strategic navigator, and growth mentor. I bring guidance and experience to every conversation, helping the team translate business goals into clear technical direction, grow individually through coaching and feedback, and operate in an environment where collaboration, learning, and celebrating wins are part of the culture. It's not just about delivering software, it's about building up people while building great products.
