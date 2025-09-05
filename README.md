@@ -18,7 +18,7 @@ You create an environment where engineers can do their best work. This includes:
 You align engineering execution with product and business goals. This includes:
 
 * **Translating company vision into technical direction** - Making the abstract concrete
-* **Prioritizing work that matters** - Focusing effort on high-impact initiatives
+* **[Prioritizing work that matters](./strategy/README.md)** - Focusing effort on high-impact initiatives
 * **Balancing tech debt, velocity, and quality** - Managing the engineering triangle
 * **[Guiding architecture decisions](/systemdesign/system-design.md)** - Ensuring scale and maintainability
 
