@@ -3,28 +3,17 @@
 **Purpose:**  
 Dedicated time for the SDM and team member to connect, align, and support growth. This is the team member’s time, not just a status update.
 
----
 
-## Suggested Agenda for Meeting Request
+## Standing Agenda
 **Title:** 1:1 with [Employee Name]  
 **Duration:** 30–45 minutes  
 **Agenda:**  
-1. Personal check-in  
-2. Current work & blockers  
-3. Career & growth discussions  
-4. Feedback (two-way)  
-5. Wrap-up & next steps  
-
----
-
-## Standing Agenda
 1. Personal Check-In  
 2. Current Work & Blockers  
 3. Career & Growth  
 4. Feedback (two-way)  
 5. Wrap-Up & Next Steps  
 
----
 
 ## Suggested Questions
 
@@ -66,14 +55,12 @@ Dedicated time for the SDM and team member to connect, align, and support growth
 - If you could shape the team’s direction for the next 6 months, what would you change?  
 - Where do you see yourself in 2–3 years, and how can I help you move toward that?  
 
----
 
 ## Wrap-Up
 - Summarize action items for both sides.  
 - Confirm follow-ups before the next 1:1.  
 - End with appreciation: acknowledge wins, progress, or effort.  
 
----
 
 ## Notes
 - Keep a running document for each person to track themes, commitments, and growth over time.  
