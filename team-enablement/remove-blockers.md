@@ -5,9 +5,9 @@ Ensure that blockers raised by engineers are identified quickly, categorized cor
 
 
 ## 1. Detect Blockers
-- Ask directly in standups: *“Any blockers I can help clear today?”*  
-- Use a `#blockers` Slack thread or JIRA “Blocked” tag for async reporting.  
-- Probe during 1:1s when you hear “I’ll figure it out later.”  
+- Ask directly in standups: *"Any blockers I can help clear today?"*  
+- Use a `#blockers` Slack thread or JIRA "Blocked" tag for async reporting.  
+- Probe during 1:1s when you hear "I'll figure it out later."  
 
 
 ## 2. Categorize the Blocker
@@ -20,9 +20,9 @@ Ensure that blockers raised by engineers are identified quickly, categorized cor
 
 
 ## 3. Act Fast, Multiply Impact
-- Don’t solve everything yourself — **clear the path** so the engineer can move forward.  
-- Provide a **parallel task** if the blocker can’t be cleared immediately.  
-- Always communicate status back to the engineer — don’t leave them guessing.  
+- Don't solve everything yourself — **clear the path** so the engineer can move forward.  
+- Provide a **parallel task** if the blocker can't be cleared immediately.  
+- Always communicate status back to the engineer — don't leave them guessing.  
 
 
 ## 4. Prevent Recurrence
@@ -47,7 +47,7 @@ Ensure that blockers raised by engineers are identified quickly, categorized cor
 > Blocked on API credentials for staging. Waiting on DevOps. ETA unknown. Can anyone help?  
 
 **Responding:**  
-> Got it — I’ll ping DevOps right now. If not resolved in 2 hours, we’ll pair you on Ticket #123 to keep you moving.  
+> Got it — I'll ping DevOps right now. If not resolved in 2 hours, we'll pair you on Ticket #123 to keep you moving.  
 
 
 ## Success Metric

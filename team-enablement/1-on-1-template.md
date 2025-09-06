@@ -1,7 +1,7 @@
 # 1:1 Meeting Template
 
 **Purpose:**  
-Dedicated time for the SDM and team member to connect, align, and support growth. This is the team member’s time, not just a status update.
+Dedicated time for the SDM and team member to connect, align, and support growth. This is the team member's time, not just a status update.
 
 
 ## Standing Agenda
@@ -19,12 +19,12 @@ Dedicated time for the SDM and team member to connect, align, and support growth
 
 ### Personal Check-In
 - How are you feeling this week, inside and outside of work?  
-- What’s been energizing you lately?  
+- What's been energizing you lately?  
 - Is anything causing you stress or distraction right now?  
 - Do you feel like you have a healthy balance between work and personal life?  
 
 ### Current Work & Blockers
-- What are you working on that you’re most excited about?  
+- What are you working on that you're most excited about?  
 - Is anything slowing you down that I can help unblock?  
 - Are our priorities clear to you right now?  
 - Do you feel like you have the resources and support to succeed this sprint?  
@@ -33,14 +33,14 @@ Dedicated time for the SDM and team member to connect, align, and support growth
 - What skills do you want to develop in the next 6–12 months?  
 - Are you getting the right level of challenge in your work?  
 - What type of projects would you like more exposure to?  
-- Do you feel like you’re progressing toward your career goals?  
-- Is there someone on the team (or outside) you’d like to learn from?  
+- Do you feel like you're progressing toward your career goals?  
+- Is there someone on the team (or outside) you'd like to learn from?  
 
 ### Feedback (Two-Way)
 - What feedback do you have for me as your manager?  
-- What’s one thing I could do differently to better support you?  
+- What's one thing I could do differently to better support you?  
 - Is there anything about our team processes that frustrates you?  
-- What’s something we should start doing, stop doing, or continue doing?  
+- What's something we should start doing, stop doing, or continue doing?  
 - How do you prefer to receive feedback from me?  
 
 ### Team & Collaboration
@@ -50,9 +50,9 @@ Dedicated time for the SDM and team member to connect, align, and support growth
 - Are there any conflicts or tensions I should be aware of?  
 
 ### Long-Term Alignment
-- Do you feel connected to the company’s mission and goals?  
+- Do you feel connected to the company's mission and goals?  
 - Can you see how your work contributes to business outcomes?  
-- If you could shape the team’s direction for the next 6 months, what would you change?  
+- If you could shape the team's direction for the next 6 months, what would you change?  
 - Where do you see yourself in 2–3 years, and how can I help you move toward that?  
 
 

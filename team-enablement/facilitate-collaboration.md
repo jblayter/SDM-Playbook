@@ -5,7 +5,7 @@ Enable effective collaboration within the team and across functions (product, de
 
 
 ## 1. Detect / Identify
-- Team silos forming (“that’s not my job” mindset).  
+- Team silos forming ("that's not my job" mindset).  
 - Engineers blocked due to unclear handoffs.  
 - Product/design/engineering disagreements slowing delivery.  
 - Decisions taking too long or being revisited repeatedly.  
@@ -23,7 +23,7 @@ Enable effective collaboration within the team and across functions (product, de
 ## 3. Act / Execute
 - **Set Collaboration Norms**  
   - Define how the team communicates (Slack vs. meetings vs. docs).  
-  - Establish “default open” sharing — document decisions and make them visible.  
+  - Establish "default open" sharing — document decisions and make them visible.  
 
 - **Use Frameworks**  
   - Apply **RACI** or **DACI** to clarify roles in projects.  
@@ -32,7 +32,7 @@ Enable effective collaboration within the team and across functions (product, de
 - **Run Collaboration Rituals**  
   - Kickoff meetings for new projects with clear roles, goals, and timelines.  
   - Joint backlog grooming with product/design.  
-  - Regular demos so teams see each other’s work in progress.  
+  - Regular demos so teams see each other's work in progress.  
 
 - **Foster Trust**  
   - Encourage pairing/peer reviews for shared learning.  
@@ -41,9 +41,9 @@ Enable effective collaboration within the team and across functions (product, de
 
 ## 4. Prevent Recurrence / Continuous Improvement
 - Review collaboration friction in retrospectives.  
-- Rotate facilitators in meetings so collaboration doesn’t hinge on one person.  
-- Collect anonymous feedback quarterly on “team collaboration health.”  
-- Sunset rituals that don’t add value (keep collaboration lean).  
+- Rotate facilitators in meetings so collaboration doesn't hinge on one person.  
+- Collect anonymous feedback quarterly on "team collaboration health."  
+- Sunset rituals that don't add value (keep collaboration lean).  
 
 
 ## 5. Ritual Cadence

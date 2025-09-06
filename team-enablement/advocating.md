@@ -1,7 +1,7 @@
 # Advocating for Your Team Playbook
 
 **Purpose:**  
-Ensure that the team’s needs, accomplishments, and challenges are consistently represented to leadership and stakeholders. Advocacy builds trust, secures resources, and creates psychological safety for engineers to focus on their work.
+Ensure that the team's needs, accomplishments, and challenges are consistently represented to leadership and stakeholders. Advocacy builds trust, secures resources, and creates psychological safety for engineers to focus on their work.
 
 
 ## 1. Detect / Identify
@@ -27,11 +27,11 @@ Ensure that the team’s needs, accomplishments, and challenges are consistently
 
 - **Secure Resources**  
   - Track workload and use metrics (velocity, cycle time, attrition risk) to justify additional headcount or tools.  
-  - Frame requests in business terms: *“We can hit X market window if we have Y support.”*  
+  - Frame requests in business terms: *"We can hit X market window if we have Y support."*  
 
 - **Protect the Team**  
   - Push back respectfully on unrealistic deadlines — propose alternatives.  
-  - Redirect “drive-by” requests to product/SDM intake processes.  
+  - Redirect "drive-by" requests to product/SDM intake processes.  
   - Ensure work aligns with team goals, not just ad hoc asks.  
 
 - **Amplify Their Voice**  
@@ -41,7 +41,7 @@ Ensure that the team’s needs, accomplishments, and challenges are consistently
 
 
 ## 4. Prevent Recurrence / Continuous Improvement
-- Regularly pulse-check the team: *“Do you feel your work is recognized?”*  
+- Regularly pulse-check the team: *"Do you feel your work is recognized?"*  
 - Build a running list of accomplishments to highlight at quarterly reviews.  
 - Proactively gather data on workload and resourcing before crunches hit.  
 - Encourage engineers to self-advocate — give them platforms to present directly.  
@@ -51,7 +51,7 @@ Ensure that the team’s needs, accomplishments, and challenges are consistently
 - **Weekly:** Share team wins in Slack or status reports.  
 - **Bi-Weekly:** Run demos where engineers present to stakeholders.  
 - **Monthly:** Raise resource/trade-off issues in leadership meetings.  
-- **Quarterly:** Present “Team Impact Summary” at all-hands or exec reviews.  
+- **Quarterly:** Present "Team Impact Summary" at all-hands or exec reviews.  
 
 
 ## 6. Example Messages / Templates
@@ -59,7 +59,7 @@ Ensure that the team’s needs, accomplishments, and challenges are consistently
 > Huge shoutout to the team for shipping Feature X ahead of schedule! This unlocks Y revenue opportunity. Great collaboration across the board.  
 
 **Protecting Team Capacity (Email):**  
-> Thanks for the request on Z. The team is currently focused on A and B, which are tied to this quarter’s commitments. Happy to slot Z into next sprint planning or discuss trade-offs if it’s critical.  
+> Thanks for the request on Z. The team is currently focused on A and B, which are tied to this quarter's commitments. Happy to slot Z into next sprint planning or discuss trade-offs if it's critical.  
 
 **Resource Ask (Leadership Sync):**  
 > Our current velocity is flat while backlog is growing 20% per sprint. Without an additional engineer in Q4, we risk slipping the release. I propose hiring one FTE or contracting support.  

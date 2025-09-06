@@ -1,7 +1,7 @@
 # Translating Company Vision into Technical Direction
 
 **Purpose:**  
-Bridge the gap between abstract company strategy and concrete engineering work. This ensures the team’s daily activities align with long-term business goals, making the vision actionable and measurable.
+Bridge the gap between abstract company strategy and concrete engineering work. This ensures the team's daily activities align with long-term business goals, making the vision actionable and measurable.
 
 ## 1. Why It Matters
 - Engineers need clarity on how their work ties to the bigger picture.  
@@ -20,7 +20,7 @@ By making the abstract concrete, an SDM empowers the team to make decisions in c
 
 #### Outcome
 1. What specific business outcome are we trying to achieve with this initiative?  
-2. How will we know if we’ve succeeded, what’s the measurable indicator?  
+2. How will we know if we've succeeded, what's the measurable indicator?  
 3. If we could only achieve one outcome from this vision, what would it be?  
 4. What is the minimum viable outcome that still delivers value?  
 
@@ -33,7 +33,7 @@ By making the abstract concrete, an SDM empowers the team to make decisions in c
 10. How does this initiative support or compete with other priorities?  
 
 #### Risk
-11. What would happen if we did nothing, what’s the cost of inaction?  
+11. What would happen if we did nothing, what's the cost of inaction?  
 12. What assumptions are we making that could be wrong?  
 13. What are the biggest risks if we take this path?  
 14. What are the dependencies that could impact success?  
@@ -41,7 +41,7 @@ By making the abstract concrete, an SDM empowers the team to make decisions in c
 
 #### Value
 16. What problem are we solving for the business or customer?  
-17. How will this initiative change the customer’s experience?  
+17. How will this initiative change the customer's experience?  
 
 #### Context
 18. Is this about growth, efficiency, reliability, customer trust, or something else?  

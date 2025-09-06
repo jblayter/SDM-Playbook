@@ -9,7 +9,7 @@ At its core, the Software Development Manager role is about service.
 - Service to **your peers and partners**, by building alignment and collaboration across product, design, and stakeholders.  
 - Service to **the organization**, by ensuring engineering effort delivers meaningful impact.  
 
-The "why" of being an SDM isn't just about output or delivery ... it’s about enabling people to do their best work, fostering growth, and building trust. When we lead with service, the outcomes naturally follow.
+The "why" of being an SDM isn't just about output or delivery ... it's about enabling people to do their best work, fostering growth, and building trust. When we lead with service, the outcomes naturally follow.
 
 ## What does it mean to be a Software Development Manager
 
@@ -89,10 +89,10 @@ Clarify expectations and support required from my manager to operate effectively
 ## 1. Clear Direction & Alignment
 - **Strategic context:** Clear articulation of company priorities, OKRs, and how my team fits into the bigger picture.  
 - **Decision-making guardrails:** When I should escalate vs. when I should own a decision.  
-- **Prioritization support:** Alignment on what “matters most” so I can confidently say *no* to lower-value work.  
+- **Prioritization support:** Alignment on what "matters most" so I can confidently say *no* to lower-value work.  
 
 ## 2. Advocacy & Air Cover
-- **Executive advocacy:** Promote my team’s wins in director/VP forums.  
+- **Executive advocacy:** Promote my team's wins in director/VP forums.  
 - **Shielding:** Protect against scope creep, unrealistic deadlines, or organizational churn.  
 - **Cross-functional support:** Reinforce my authority with product, design, or external stakeholders when alignment is tough.  
 
@@ -102,7 +102,7 @@ Clarify expectations and support required from my manager to operate effectively
 - **Empowerment:** Trust me to run my team — delegate authority, not just responsibility.  
 
 ## 4. Coaching & Feedback
-- **Regular feedback:** Specific, actionable input on where I’m excelling and where I need to adjust.  
+- **Regular feedback:** Specific, actionable input on where I'm excelling and where I need to adjust.  
 - **Career growth:** Support for my own development (training, mentorship, exposure to strategic initiatives).  
 - **Safe sounding board:** Space to talk through challenges (people issues, strategy questions) without judgment.  
 

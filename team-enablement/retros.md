@@ -1,7 +1,7 @@
 # Sprint Retrospectives Playbook
 
 **Purpose:**  
-Continuously improve the team’s processes, collaboration, and delivery by reflecting on the previous sprint. Retros give the team a safe space to share what worked, what didn’t, and what to try next.
+Continuously improve the team's processes, collaboration, and delivery by reflecting on the previous sprint. Retros give the team a safe space to share what worked, what didn't, and what to try next.
 
 
 ## 1. Detect / Identify
@@ -22,25 +22,25 @@ Continuously improve the team’s processes, collaboration, and delivery by refl
 ## 3. Act / Execute
 ### **Retro Agenda (60 minutes)**
 1. **Set the Stage (5 min)**  
-   - Welcome, explain purpose: *“We’re here to improve how we work, not to assign blame.”*  
+   - Welcome, explain purpose: *"We're here to improve how we work, not to assign blame."*  
    - Establish ground rules (respect, honesty, no interruptions).  
 
 2. **Gather Data (15 min)**  
    - Use sticky notes, digital board, or shared doc.  
-   - Prompt: *“What went well? What was challenging? Any surprises?”*  
+   - Prompt: *"What went well? What was challenging? Any surprises?"*  
 
 3. **Generate Insights (15 min)**  
    - Group items into themes.  
-   - Discuss root causes (ask “why” 2–3 times).  
-   - Encourage balanced discussion — don’t only focus on negatives.  
+   - Discuss root causes (ask "why" 2–3 times).  
+   - Encourage balanced discussion — don't only focus on negatives.  
 
 4. **Decide on Actions (15 min)**  
    - Select 2–3 items to improve next sprint (not a laundry list).  
    - Assign owners, add to backlog, track progress.  
 
 5. **Close the Retro (10 min)**  
-   - End with appreciations or “shoutouts.”  
-   - Quick confidence vote: *“Do you feel heard today?”*  
+   - End with appreciations or "shoutouts."  
+   - Quick confidence vote: *"Do you feel heard today?"*  
    - Thank the team for openness.  
 
 
@@ -65,7 +65,7 @@ Continuously improve the team’s processes, collaboration, and delivery by refl
 
 **Retro Prompt (Miro/Sticky Notes):**  
 - What went well?  
-- What didn’t go well?  
+- What didn't go well?  
 - What should we try next?  
 
 **Closing Shoutout (Slack):**  

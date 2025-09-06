@@ -3,7 +3,7 @@
 > Use this before merging any feature that affects data, APIs, or infra. Treat each section as **Go/No-Go gates**.
 
 ## 1) Problem & Blast Radius
-- [ ] **Clear intent:** Single-sentence “why” and success metric (e.g., +X% conversion, -Y% latency).
+- [ ] **Clear intent:** Single-sentence "why" and success metric (e.g., +X% conversion, -Y% latency).
 - [ ] **Scope:** Which services, queues, jobs, schemas, and tenants are touched?
 - [ ] **Read/write surface:** Reads from ___; writes to ___; external calls to ___.
 
@@ -54,7 +54,7 @@
 - [ ] **Feature-flagged:** Dark launch + per-tenant enablement; kill-switch in place.
 - [ ] **Safe deploy:** Gradual rollout (e.g., 1% → 5% → 25% → 100%); health checks gate progression.
 - [ ] **Rollback plan:** DB changes reversible; toggling flag returns system to stable state.
-- [ ] **Runbook updated:** “How to disable/recover” steps documented.
+- [ ] **Runbook updated:** "How to disable/recover" steps documented.
 
 ## 10) Cost & Capacity
 - [ ] **Cost deltas:** Expected DB/egress/cache/job cost change; stay within budget.
