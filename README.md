@@ -99,7 +99,7 @@ Clarify expectations and support required from my manager to operate effectively
 ## 3. Resources & Empowerment
 - **Resourcing clarity:** Timely decisions on headcount, budget, and tooling requests.  
 - **Access:** Open doors to other leaders/teams for collaboration.  
-- **Empowerment:** Trust me to run my team — delegate authority, not just responsibility.  
+- **Empowerment:** Create space for me to take ownership and grow as a leader, with guidance when needed and trust in my judgment.  
 
 ## 4. Coaching & Feedback
 - **Regular feedback:** Specific, actionable input on where I'm excelling and where I need to adjust.  
