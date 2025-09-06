@@ -16,11 +16,11 @@ The goal isn't to be perfect, it's to be trusted, consistent, and growth-minded 
 * **Recognition** - Celebrating wins, both big and small, to reinforce positive behaviors
 
 ### Practices
-* **[Run consistent 1:1s](/team-enablement/1-on-1.md)** with action-oriented follow-ups
-* **[Track career growth goals](./team-enablement/1-on-1-template.md)** and align projects with them
+* **[Run consistent 1:1s](../rituals/1-on-1-template.md)** with action-oriented follow-ups
+* **[Track career growth goals](../rituals/1-on-1-template.md)** and align projects with them
 * **Balance autonomy with support** — "guide, don't micromanage"
 * **Learn how each team member defines success**
-* **Use [Sprint Retrospectives](./team-enablement/retros.md)** to continuously improve team processes
+* **Use [Sprint Retrospectives](../rituals/sprint-retrospectives.md)** to continuously improve team processes
 
 ### Reflection
 * Do my team members feel heard, challenged, and supported?
@@ -31,17 +31,17 @@ The goal isn't to be perfect, it's to be trusted, consistent, and growth-minded 
 **Focus**: Show clarity, execution, and strategic alignment.
 
 ### Topics
-* **[Communicating engineering health](./strategy/engineering-health.md)** - Velocity, quality, risks in business terms
+* **[Communicating engineering health](../health/engineering-health-report.md)** - Velocity, quality, risks in business terms
 * **Building trust with data** - Dashboards, metrics, OKRs that tell a clear story
 * **Translating technical initiatives** into business outcomes
 * **Escalation vs. ownership** - When to raise issues, when to solve them
 
 ### Practices
 * **Always connect engineering work** to revenue, cost, or risk
-* **Create concise weekly updates** using [Engineering Health Report](../communication-templates/03-engineering-health-report.md) - Status, risks, asks
+* **Create concise weekly updates** using [Engineering Health Report](../communication/03-engineering-health-report.md) - Status, risks, asks
 * **Anticipate questions** before they're asked (prepare 2 levels deep)
 * **Highlight how your team's success** contributes to company goals
-* **Use [Technical Risk Brief](../communication-templates/02-technical-risk-brief.md)** for proactive risk communication
+* **Use [Technical Risk Brief](../communication/02-technical-risk-brief.md)** for proactive risk communication
 
 ### Reflection
 * Would my director say I run a team that executes with clarity and predictability?
@@ -60,9 +60,9 @@ The goal isn't to be perfect, it's to be trusted, consistent, and growth-minded 
 ### Practices
 * **Co-create roadmaps with product** - Don't just react to them
 * **Run discovery with product/design** so engineers feel ownership
-* **Translate tech debt into product impact** using [Tech Debt Business Case](../communication-templates/09-tech-debt-business-case.md) - Not just "developer pain"
+* **Translate tech debt into product impact** using [Tech Debt Business Case](../communication/09-tech-debt-business-case.md) - Not just "developer pain"
 * **Make stakeholders allies** by over-communicating progress
-* **Use [Facilitating Collaboration](./team-enablement/facilitate-collaboration.md)** frameworks for cross-functional alignment
+* **Use [Facilitating Collaboration](../rituals/facilitating-collaboration.md)** frameworks for cross-functional alignment
 
 ### Reflection
 * Would product/design say I'm a proactive partner, not a blocker?
@@ -91,10 +91,10 @@ The goal isn't to be perfect, it's to be trusted, consistent, and growth-minded 
 ## Integrating It All
 
 ### Build a 90-day leadership plan that addresses:
-* **Your team's career development roadmap** - Clear paths and milestones for each team member using [1:1s](./team-enablement/1-on-1.md)
-* **Executive visibility/reporting strategy** - How you'll communicate progress and value using [Engineering Health Report](../communication-templates/03-engineering-health-report.md)
-* **Cross-functional alignment rituals** - Regular touchpoints with product, design, and other stakeholders using [Facilitating Collaboration](./team-enablement/facilitate-collaboration.md)
-* **A system to measure engineering health** - Velocity, quality, morale metrics and dashboards using [Communicating Engineering Health](./strategy/engineering-health.md)
+* **Your team's career development roadmap** - Clear paths and milestones for each team member using [1:1s](../rituals/1-on-1-template.md)
+* **Executive visibility/reporting strategy** - How you'll communicate progress and value using [Engineering Health Report](../communication/03-engineering-health-report.md)
+* **Cross-functional alignment rituals** - Regular touchpoints with product, design, and other stakeholders using [Facilitating Collaboration](../rituals/facilitating-collaboration.md)
+* **A system to measure engineering health** - Velocity, quality, morale metrics and dashboards using [Communicating Engineering Health](../health/engineering-health-report.md)
 
 ### Ongoing Habit: Journal weekly:
 * **What did I do this week that made my team better?**
