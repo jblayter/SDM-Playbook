@@ -65,6 +65,17 @@ This repository contains practical tools and frameworks to support effective sof
 - **[Creating and Determining Value Playbook](./strategy/determine-value.md)** – Framework for evaluating, creating, and communicating value across customer, business, and engineering dimensions
 - **[Translating Outcomes Into Initiatives Playbook](./strategy/outcomes-to-initiatives.md)** – Step-by-step guide for turning business or customer outcomes into actionable technical initiatives
 
+### Communication Templates
+- **[Engineering Initiative Proposal](./communication-templates/01-engineering-initiative-proposal.md)** – Template for proposing new technical initiatives with business justification
+- **[Technical Risk Brief](./communication-templates/02-technical-risk-brief.md)** – Framework for communicating technical risks to stakeholders
+- **[Engineering Health Report](./communication-templates/03-engineering-health-report.md)** – Template for reporting team velocity, quality, and technical health metrics
+- **[Tradeoff Decision Record](./communication-templates/04-tradeoff-decision-record.md)** – Documenting technical tradeoffs and their rationale
+- **[Incident Postmortem](./communication-templates/05-incident-postmortem.md)** – Structured template for conducting and documenting incident postmortems
+- **[Architecture Decision Record](./communication-templates/06-architecture-decision-record.md)** – Template for documenting significant architectural decisions
+- **[Quarterly Planning Alignment](./communication-templates/07-quarterly-planning-alignment.md)** – Framework for aligning engineering work with quarterly business goals
+- **[Experiment Spike Report](./communication-templates/08-experiment-spike-report.md)** – Template for documenting technical experiments and proof-of-concepts
+- **[Tech Debt Business Case](./communication-templates/09-tech-debt-business-case.md)** – Framework for making the business case for technical debt reduction
+- **[Stakeholder Escalation Runbook](./communication-templates/10-stakeholder-escalation-runbook.md)** – Guide for escalating issues and communicating with stakeholders
 
 ## Philosophy
 
