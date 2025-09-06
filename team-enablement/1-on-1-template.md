@@ -1,69 +1,80 @@
-# 1:1 Notes – [Employee Name]
+# 1:1 Meeting Template
 
-**Cadence:** Weekly/Bi-Weekly (30–45 minutes)  
-**Purpose:** Dedicated time for [Employee Name] to share progress, raise concerns, and align on growth.  
+**Purpose:**  
+Dedicated time for the SDM and team member to connect, align, and support growth. This is the team member’s time, not just a status update.
 
+---
+
+## Suggested Agenda for Meeting Request
+**Title:** 1:1 with [Employee Name]  
+**Duration:** 30–45 minutes  
+**Agenda:**  
+1. Personal check-in  
+2. Current work & blockers  
+3. Career & growth discussions  
+4. Feedback (two-way)  
+5. Wrap-up & next steps  
+
+---
 
 ## Standing Agenda
-1. Personal Check-In (5 min)  
-2. Current Work & Blockers (10–15 min)  
-3. Career & Growth (10–15 min)  
-4. Feedback Exchange (5–10 min)  
-5. Wrap-Up & Next Steps (5 min)  
+1. Personal Check-In  
+2. Current Work & Blockers  
+3. Career & Growth  
+4. Feedback (two-way)  
+5. Wrap-Up & Next Steps  
 
+---
 
-## Running Log
+## Suggested Questions
 
-### [Date]
-**Personal Check-In:**  
--  
+### Personal Check-In
+- How are you feeling this week, inside and outside of work?  
+- What’s been energizing you lately?  
+- Is anything causing you stress or distraction right now?  
+- Do you feel like you have a healthy balance between work and personal life?  
 
-**Current Work / Blockers:**  
--  
+### Current Work & Blockers
+- What are you working on that you’re most excited about?  
+- Is anything slowing you down that I can help unblock?  
+- Are our priorities clear to you right now?  
+- Do you feel like you have the resources and support to succeed this sprint?  
 
-**Career & Growth Discussion:**  
--  
+### Career & Growth
+- What skills do you want to develop in the next 6–12 months?  
+- Are you getting the right level of challenge in your work?  
+- What type of projects would you like more exposure to?  
+- Do you feel like you’re progressing toward your career goals?  
+- Is there someone on the team (or outside) you’d like to learn from?  
 
-**Feedback (Manager → Employee):**  
--  
-**Feedback (Employee → Manager):**  
--  
+### Feedback (Two-Way)
+- What feedback do you have for me as your manager?  
+- What’s one thing I could do differently to better support you?  
+- Is there anything about our team processes that frustrates you?  
+- What’s something we should start doing, stop doing, or continue doing?  
+- How do you prefer to receive feedback from me?  
 
-**Agreed Action Items:**  
-- [ ]  
+### Team & Collaboration
+- Do you feel your contributions are recognized and appreciated?  
+- How is collaboration with product/design/stakeholders going?  
+- Do you feel comfortable speaking up in team meetings?  
+- Are there any conflicts or tensions I should be aware of?  
 
+### Long-Term Alignment
+- Do you feel connected to the company’s mission and goals?  
+- Can you see how your work contributes to business outcomes?  
+- If you could shape the team’s direction for the next 6 months, what would you change?  
+- Where do you see yourself in 2–3 years, and how can I help you move toward that?  
 
-### [Date]
-**Personal Check-In:**  
--  
+---
 
-**Current Work / Blockers:**  
--  
+## Wrap-Up
+- Summarize action items for both sides.  
+- Confirm follow-ups before the next 1:1.  
+- End with appreciation: acknowledge wins, progress, or effort.  
 
-**Career & Growth Discussion:**  
--  
+---
 
-**Feedback (Manager → Employee):**  
--  
-**Feedback (Employee → Manager):**  
--  
-
-**Agreed Action Items:**  
-- [ ]  
-
-
-## Quarterly Reflection
-**Career Goals:**  
--  
-
-**Skills to Develop:**  
--  
-
-**Stretch Opportunities Identified:**  
--  
-
-**Feedback Summary (Themes):**  
--  
-
-**Manager Commitments:**  
--  
+## Notes
+- Keep a running document for each person to track themes, commitments, and growth over time.  
+- Rotate through different questions so conversations stay fresh and cover a balance of work, growth, and well-being.
