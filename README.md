@@ -94,7 +94,7 @@ Clarify expectations and support required from my manager to operate effectively
 ## 2. Advocacy & Air Cover
 - **Executive advocacy:** Promote my team's wins in director/VP forums.  
 - **Shielding:** Protect against scope creep, unrealistic deadlines, or organizational churn.  
-- **Cross-functional support:** Reinforce my authority with product, design, or external stakeholders when alignment is tough.  
+- **Cross-functional support:** Help me foster alignment with product, design, and other stakeholders when priorities or perspectives differ. 
 
 ## 3. Resources & Empowerment
 - **Resourcing clarity:** Timely decisions on headcount, budget, and tooling requests.  
