@@ -22,7 +22,7 @@ You create an environment where engineers can do their best work. This includes:
 * **[Removing blockers](./team-enablement/remove-blockers.md)** - Identifying and eliminating obstacles that prevent progress
 * **[Facilitating collaboration](./team-enablement/facilitate-collaboration.md)** - Creating opportunities for cross-functional teamwork
 * **[Advocating for your team](./team-enablement/advocating.md)** - Representing team needs and achievements across functions
-* **Establishing healthy rituals** - [Implementing retros](./team-enablement/retros.md), standups, and [1:1s](/team-enablement/1-on-1.md) that drive value
+* **Establishing healthy rituals** - [Implementing retros](./team-enablement/retros.md), standups, and [1:1s](/team-enablement/1-on-1.md) that [drive value](./strategy/determine-value.md)
 
 ## 2. Strategic Navigator
 
@@ -62,6 +62,8 @@ This repository contains practical tools and frameworks to support effective sof
 - **[Prioritizing Work That Matters Playbook](./strategy/README.md)** – Focusing effort on high-impact initiatives aligned with company strategy
 - **[Communicating Engineering Health](./strategy/engineering-health.md)** – How to measure, interpret, and communicate engineering velocity, quality, and risk in business terms
 - **[Translating Company Vision into Technical Direction](./strategy/vision-to-direction.md)** – Bridge the gap between abstract company strategy and concrete engineering work; actionable frameworks and clarifying questions for aligning daily engineering with long-term business goals
+- **[Creating and Determining Value Playbook](./strategy/determine-value.md)** – Framework for evaluating, creating, and communicating value across customer, business, and engineering dimensions
+- **[Translating Outcomes Into Initiatives Playbook](./strategy/outcomes-to-initiatives.md)** – Step-by-step guide for turning business or customer outcomes into actionable technical initiatives
 
 
 ## Philosophy
