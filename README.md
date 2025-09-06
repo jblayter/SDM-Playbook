@@ -107,7 +107,7 @@ Clarify expectations and support required from my manager to operate effectively
 - **Safe sounding board:** Space to talk through challenges (people issues, strategy questions) without judgment.  
 
 ## 5. Transparency & Communication
-- **Early signal:** Heads-up on organizational changes or shifting priorities before they cascade down.  
+- **Early signal:** Heads-up as you can on organizational changes or shifting priorities before they cascade down.  
 - **Accessible cadence:** Consistent 1:1s with time for my topics, not just status updates.  
 - **No surprises:** Share both positive and negative feedback directly and quickly.  
 
