@@ -78,7 +78,9 @@
 **Context:** ___  
 **Options considered:** ___  
 **Decision drivers:** ___  
-**Consequences (trade-offs):** ___
+**Consequences (trade-offs):** ___  
+
+*For full ADR template, see [Architecture Decision Record](../communication-templates/06-architecture-decision-record.md)*
 
 ### Final Go/No-Go
 - [ ] All boxes above checked (or explicit, reviewed exceptions).

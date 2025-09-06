@@ -68,7 +68,9 @@ By communicating engineering health in **business terms**, we ensure trust, tran
 **Weekly Exec Update (Slack/Email):**  
 > Velocity: Team delivered 95% of sprint commitments (8 features shipped).  
 > Quality: 3 incidents, all resolved within SLA. Tech debt ratio stable.  
-> Risks: Dependency on vendor X remains — we’re engaging procurement for alternatives.  
+> Risks: Dependency on vendor X remains — we're engaging procurement for alternatives.
+
+**Use [Engineering Health Report](../communication-templates/03-engineering-health-report.md) template for structured reporting.**  
 
 **Quarterly Review (Slide Summary):**  
 - **Velocity:** On track with roadmap, cycle time improved 15% since last quarter.  

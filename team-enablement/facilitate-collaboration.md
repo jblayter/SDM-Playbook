@@ -27,7 +27,7 @@ Enable effective collaboration within the team and across functions (product, de
 
 - **Use Frameworks**  
   - Apply **RACI** or **DACI** to clarify roles in projects.  
-  - Create decision logs (what was decided, why, and by whom).  
+  - Create decision logs using [Architecture Decision Record](../communication-templates/06-architecture-decision-record.md) template (what was decided, why, and by whom).  
 
 - **Run Collaboration Rituals**  
   - Kickoff meetings for new projects with clear roles, goals, and timelines.  

@@ -30,17 +30,17 @@ You align engineering execution with product and business goals. This includes:
 
 * **[Translating company vision into technical direction](./strategy/vision-to-direction.md)** - Making the abstract concrete
 * **[Prioritizing work that matters](./strategy/README.md)** - Focusing effort on high-impact initiatives
-* **Balancing tech debt, velocity, and quality** - Managing the engineering triangle
+* **Balancing tech debt, velocity, and quality** - Managing the engineering triangle using [Tech Debt Business Case](./communication-templates/09-tech-debt-business-case.md)
 * **[Guiding architecture decisions](/systemdesign/system-design.md)** - Ensuring scale and maintainability
 
 ## 3. Growth Mentor
 
 You develop people and grow careers. This includes:
 
-* **Coaching engineers through challenges** - Providing support and guidance
+* **Coaching engineers through challenges** - Providing support and guidance using [1:1s](./team-enablement/1-on-1.md)
 * **Helping team members level up** - Creating stretch assignments and growth opportunities
 * **Giving thoughtful feedback** - Delivering constructive, actionable insights
-* **Creating space for learning and experimentation** - Fostering innovation and growth
+* **Creating space for learning and experimentation** - Fostering innovation and growth using [Experiment/Spike Report](./communication-templates/08-experiment-spike-report.md)
 
 ## Playbook Contents
 

@@ -61,7 +61,7 @@ Provide a structured approach for turning high-level business or customer outcom
 - **Impact Mapping:** Visualize links between goals > actors > impacts > deliverables.  
 - **OKR Alignment:** Tie initiatives to specific key results.  
 - **Value Stream Mapping:** Understand bottlenecks in delivering value.  
-- **Decision Logs (ADRs):** Document how initiatives were chosen and why.  
+- **Decision Logs (ADRs):** Document how initiatives were chosen and why using [Architecture Decision Record](../communication-templates/06-architecture-decision-record.md) template.  
 
 ## 5. Common Pitfalls
 - Jumping straight from vision to features without identifying drivers.  
@@ -70,7 +70,7 @@ Provide a structured approach for turning high-level business or customer outcom
 - Treating initiatives as static — they should be revisited quarterly.  
 
 ## 6. Ritual Cadence
-- **Quarterly:** Translate company OKRs into 3–5 top initiatives.  
+- **Quarterly:** Translate company OKRs into 3–5 top initiatives using [Quarterly Planning Alignment](../communication-templates/07-quarterly-planning-alignment.md).  
 - **Monthly:** Review initiatives with product and leadership for alignment.  
 - **Sprintly:** Ensure backlog items trace back to an initiative, not "nice-to-haves."  
 

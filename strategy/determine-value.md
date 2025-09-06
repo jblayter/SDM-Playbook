@@ -53,6 +53,7 @@ A strong initiative demonstrates value in **at least two dimensions**.
 4. **Communicate Value Clearly**  
    - Frame in business terms: *"This reduces support costs by $50k per quarter."*  
    - Use trends, not just snapshots (e.g., defect rate trending down).  
+   - Use [Engineering Health Report](../communication-templates/03-engineering-health-report.md) template to communicate value metrics.  
 
 5. **Measure and Revisit**  
    - Define baseline metrics before the work begins.  
@@ -71,7 +72,7 @@ Use this before committing to any significant initiative:
 ## 6. Ritual Cadence
 - **Sprintly:** Validate that backlog items link to value-driven initiatives.  
 - **Monthly:** Review value delivered against outcomes with product/leadership.  
-- **Quarterly:** Re-assess initiatives against evolving company vision and OKRs.  
+- **Quarterly:** Re-assess initiatives against evolving company vision and OKRs using [Quarterly Planning Alignment](../communication-templates/07-quarterly-planning-alignment.md).  
 
 ## Success Metric
 Engineering effort consistently produces visible improvements in customer satisfaction, business outcomes, and long-term technical health. Value is clearly articulated and measurable across all initiatives.

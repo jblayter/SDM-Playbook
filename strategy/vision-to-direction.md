@@ -60,6 +60,7 @@ By making the abstract concrete, an SDM empowers the team to make decisions in c
 ### Prioritize & Sequence
 - Weigh initiatives against business impact, technical feasibility, and urgency.  
 - Use frameworks like RICE or WSJF for alignment with product.  
+- Reference [Prioritizing Work That Matters](./README.md) for detailed prioritization frameworks.  
 
 ### Communicate Back
 - Present initiatives in both business and technical terms.  
@@ -78,7 +79,7 @@ By making the abstract concrete, an SDM empowers the team to make decisions in c
 - Maintain a decision log of how technical choices map back to strategy.  
 
 ## 5. Ritual Cadence
-- **Quarterly:** Translate updated company OKRs into technical initiatives.  
+- **Quarterly:** Translate updated company OKRs into technical initiatives using [Quarterly Planning Alignment](../communication-templates/07-quarterly-planning-alignment.md).  
 - **Monthly:** Review progress with product/leadership to ensure alignment.  
 - **Sprintly:** Connect backlog items to higher-level initiatives in planning.  
 

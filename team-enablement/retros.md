@@ -49,11 +49,12 @@ Continuously improve the team’s processes, collaboration, and delivery by refl
 - Rotate facilitator role to keep things fresh.  
 - Experiment with different retro formats to prevent fatigue.  
 - Run anonymous pulse surveys if candor seems low.  
+- Use [1:1s](../team-enablement/1-on-1.md) to follow up on retro themes and individual concerns.  
 
 
 ## 5. Ritual Cadence
 - **Every sprint:** Standard retrospective.  
-- **After incidents:** Blameless postmortem (can replace retro if timing overlaps).  
+- **After incidents:** Blameless postmortem using [Incident Postmortem](../communication-templates/05-incident-postmortem.md) template (can replace retro if timing overlaps).  
 - **Quarterly:** Extended retro with a broader scope (team health, process, collaboration).  
 
 

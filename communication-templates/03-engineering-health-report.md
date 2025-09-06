@@ -26,3 +26,4 @@
 ## Next Actions  
 - Short-term: [quick wins to improve health next sprint/month]  
 - Long-term: [systemic changes needed for sustainability]  
+- For tech debt issues, use [Tech Debt Business Case](./09-tech-debt-business-case.md) template  

@@ -151,7 +151,8 @@ Use this as a talk track and self‑prompt list. It scales from high‑level pro
 
 ## 16) Trade‑offs & Decision Log (keep visible)
 
-* Problem → Options → Chosen → Why → Risks → Mitigations.
+* Problem → Options → Chosen → Why → Risks → Mitigations.  
+* Use [Architecture Decision Record](../communication-templates/06-architecture-decision-record.md) template for formal documentation.
 
 ## 17) Close Strong (2‑minute wrap)
 

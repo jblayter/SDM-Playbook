@@ -33,6 +33,7 @@ Ensure that blockers raised by engineers are identified quickly, categorized cor
   - Resolution time  
 - Review weekly with product/design peers for recurring patterns.  
 - Share top systemic blockers monthly with directors for support.  
+- Use [Stakeholder Escalation Runbook](../communication-templates/10-stakeholder-escalation-runbook.md) for complex blocker escalations.  
 
 
 ## 5. Ritual Cadence
