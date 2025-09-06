@@ -2,17 +2,27 @@
 
 **Period Covered:** [Month / Quarter]  
 
-**Velocity:**  
-- [Throughput trend, predictability vs commitments]  
-- [Business framing: predictability, time-to-market]  
+## Velocity (Delivery Capacity)  
+- Throughput trend: [features, stories, or tickets delivered]  
+- Predictability: [commitments vs. delivery rate]  
+- Business framing: Are we meeting milestones and responding to change with confidence?  
 
-**Quality:**  
-- [Defect rate, incidents, customer-facing bugs]  
-- [Business framing: stability, customer trust, support cost]  
+## Quality (Stability & Maintainability)  
+- Defect/incident trends: [customer-facing bugs, MTTR]  
+- System health: [test coverage, CI/CD reliability]  
+- Business framing: Can we ship quickly without sacrificing customer trust?  
 
-**Risks:**  
-- [Top risks identified: dependencies, technical debt, resourcing gaps]  
-- [Business framing: impact on roadmap, customer experience, costs]  
+## People & Team Well-Being  
+- Morale pulse: [survey score, retro feedback, 1:1 themes]  
+- Burnout risk: [average workload, overtime trends, anecdotal signals]  
+- Engagement: [participation in retros, demos, team discussions]  
+- Business framing: Healthy, motivated engineers are the foundation for sustained velocity.  
 
-**Next Actions:**  
-- [Proposed improvements or initiatives for next period]  
+## Risks (Future-Proofing)  
+- Technical: [aging modules, dependency risks, scaling bottlenecks]  
+- Organizational: [understaffed areas, knowledge silos, role coverage]  
+- Business framing: Highlight where current constraints could threaten outcomes if unaddressed.  
+
+## Next Actions  
+- Short-term: [quick wins to improve health next sprint/month]  
+- Long-term: [systemic changes needed for sustainability]  
