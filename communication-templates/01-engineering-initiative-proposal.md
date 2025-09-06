@@ -13,9 +13,9 @@
 - [One or two sentences describing the initiative]  
 
 **Value Link:**  
-- Customer >  
-- Business >  
-- Engineering >  
+- Customer →  
+- Business →  
+- Engineering →  
 
 **Risks & Trade-offs:**  
 - [List key risks or trade-offs to consider]  

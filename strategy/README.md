@@ -12,7 +12,7 @@ Ensure the team focuses effort on high-impact initiatives that align with compan
 
 
 ## 2. Guiding Principles
-- **Impact > Activity**: Busyness ≠ value.  
+- **Impact → Activity**: Busyness ≠ value.  
 - **Strategic Alignment**: Tie work directly to company OKRs or goals.  
 - **Balance**: Mix customer value, tech health, and innovation.  
 - **Transparency**: Make prioritization criteria explicit to avoid “hidden agendas.”  

@@ -7,7 +7,7 @@ Provide a structured approach for turning high-level business or customer outcom
 - Business goals are often abstract (e.g., "increase retention," "grow revenue," "build trust").  
 - Engineers need clarity: what do we build, fix, or improve to get there?  
 - Without translation, teams risk working on features that don't move the needle.  
-- Translation creates a bridge: vision > outcomes > initiatives > backlog items.
+- Translation creates a bridge: vision → outcomes → initiatives → backlog items.
 
 ## 2. Translation Workflow
 ### Step 1: Identify the Outcome
@@ -24,9 +24,9 @@ Provide a structured approach for turning high-level business or customer outcom
 ### Step 3: Link Drivers to Technical Levers
 - Identify which parts of the system engineering can directly influence.  
 - Example levers:  
-  - Quality > automated testing, error monitoring.  
-  - Onboarding > API performance, UX optimization.  
-  - Support > tooling improvements for faster triage.  
+  - Quality → automated testing, error monitoring.  
+  - Onboarding → API performance, UX optimization.  
+  - Support → tooling improvements for faster triage.  
 
 ### Step 4: Define Candidate Initiatives
 - Translate each lever into an initiative that engineers can deliver.  
@@ -37,9 +37,9 @@ Provide a structured approach for turning high-level business or customer outcom
 
 ### Step 5: Articulate the Value Link
 - Frame initiatives in a way that makes the impact explicit:  
-  - "Automated testing pipeline reduces escaped defects > fewer customer complaints > lower churn."  
-  - "Faster onboarding APIs > quicker first value > higher conversion."  
-  - "Internal support tooling > faster resolution > happier customers."  
+  - "Automated testing pipeline reduces escaped defects → fewer customer complaints → lower churn."  
+  - "Faster onboarding APIs → quicker first value → higher conversion."  
+  - "Internal support tooling → faster resolution → happier customers."  
 
 ## 3. Example Translation Scenarios
 ### Business Outcome: Increase Market Share
@@ -58,7 +58,7 @@ Provide a structured approach for turning high-level business or customer outcom
 - Initiative: Implement blue/green deployments to reduce release overhead.  
 
 ## 4. Tools & Frameworks
-- **Impact Mapping:** Visualize links between goals > actors > impacts > deliverables.  
+- **Impact Mapping:** Visualize links between goals → actors → impacts → deliverables.  
 - **OKR Alignment:** Tie initiatives to specific key results.  
 - **Value Stream Mapping:** Understand bottlenecks in delivering value.  
 - **Decision Logs (ADRs):** Document how initiatives were chosen and why using [Architecture Decision Record](../communication-templates/06-architecture-decision-record.md) template.  

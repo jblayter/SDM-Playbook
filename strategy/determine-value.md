@@ -48,7 +48,7 @@ A strong initiative demonstrates value in **at least two dimensions**.
 
 3. **[Translate Into Initiatives](./outcomes-to-initiatives.md)**  
    - Map the business or customer outcome into concrete technical actions.  
-   - Example: *"Automated testing pipeline reduces defects > lowers churn and support costs."*  
+   - Example: *"Automated testing pipeline reduces defects → lowers churn and support costs."*  
 
 4. **Communicate Value Clearly**  
    - Frame in business terms: *"This reduces support costs by $50k per quarter."*  

@@ -50,11 +50,11 @@ By making the abstract concrete, an SDM empowers the team to make decisions in c
 
 ### Define Technical Outcomes
 - Map vision themes to engineering focus areas.  
-  - Example: "Increase market share" > scale onboarding systems to handle 3× users.  
-  - Example: "Improve customer trust" > reduce incidents and add observability.  
+  - Example: "Increase market share" → scale onboarding systems to handle 3× users.  
+  - Example: "Improve customer trust" → reduce incidents and add observability.  
 
 ### Break Down into Initiatives
-- Create clear initiatives that link vision > outcome > technical work.  
+- Create clear initiatives that link vision → outcome → technical work.  
 - Use a one-liner format: *"To achieve X business goal, we will do Y technical initiative, which delivers Z outcome."*  
 
 ### Prioritize & Sequence
