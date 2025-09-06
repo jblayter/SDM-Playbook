@@ -19,6 +19,10 @@ At its core, the Software Development Manager role is about service:
 - Service to **your peers and partners**, by building alignment and collaboration across product, design, and stakeholders  
 - Service to **the organization**, by ensuring engineering effort delivers meaningful impact
 
+## Getting Started
+
+**New to Software Development Management?** Start here: [Being the Best Software Engineering Manager in the World](./being-the-best.md) - A comprehensive guide covering team leadership, managing up, cross-functional partnerships, and mastering the craft of management.
+
 ## Table of Contents
 
 ### [Leadership](./leadership/)
