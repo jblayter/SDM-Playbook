@@ -182,12 +182,16 @@ Team D (Security Team)
 - Transparent communication about challenges
 - Proactive issue identification and resolution
 - Follow-through on commitments and promises
+- **Emotional awareness** of how your communication affects others
+- **Empathetic listening** to understand different perspectives and concerns
 
 **Collaborative Problem Solving:**
 - Joint problem-solving sessions
 - Shared ownership of outcomes
 - Mutual support and assistance
 - Learning and knowledge sharing
+- **Create psychological safety** for honest discussions about challenges
+- **Practice servant leadership** by supporting other teams' success
 
 **Relationship Maintenance:**
 - Regular relationship check-ins

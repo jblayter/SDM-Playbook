@@ -3,6 +3,22 @@
 **Purpose:**  
 Provide a comprehensive framework for measuring and tracking success across technical delivery, team health, business impact, and strategic alignment during roadmap execution.
 
+**Progress Over Process:**  
+Focus on measuring outcomes that matter, not activity completion. Use metrics to accelerate progress and make better decisions, not to create reporting overhead. The goal is to understand what's working and what isn't, not to fill out dashboards.
+
+**Bias for Action:**  
+Don't wait for perfect metrics. Start with simple questions, make quick decisions based on available data, and iterate your measurement approach. Most measurement decisions are reversible, so take calculated risks and move fast.
+
+## Quick Start: Essential Metrics (5 Minutes)
+
+**Ask yourself these questions:**
+1. "Is my team delivering value consistently?" (Velocity, quality, reliability)
+2. "Are people growing and engaged?" (Satisfaction, retention, growth)
+3. "Are stakeholders happy with our partnership?" (Satisfaction, trust, alignment)
+4. "Are we making the right trade-offs?" (Business impact, technical health)
+
+**If you need more detail, use the comprehensive frameworks below.**
+
 ## 1. Metrics Categories
 
 ### Technical Delivery Metrics
@@ -16,6 +32,9 @@ Provide a comprehensive framework for measuring and tracking success across tech
 - **Growth:** Skill development, career progression, learning
 - **Collaboration:** Cross-team effectiveness, communication quality
 - **Well-being:** Work-life balance, stress levels, burnout prevention
+- **Psychological Safety:** Comfort level in sharing challenges and asking for help
+- **Emotional Intelligence:** Team's ability to navigate conflicts and support each other
+- **Servant Leadership:** Manager's effectiveness in supporting team growth and well-being
 
 ### Business Impact Metrics
 - **Customer Value:** Feature adoption, user satisfaction, business outcomes
@@ -124,6 +143,9 @@ Operational Level (Monthly/Weekly):
 - Overall satisfaction: [X]/10 (target: >8)
 - Work-life balance: [Y]/10 (target: >7)
 - Growth opportunities: [Z]/10 (target: >8)
+- Psychological safety: [A]/10 (target: >8)
+- Manager support: [B]/10 (target: >8)
+- Emotional well-being: [C]/10 (target: >7)
 
 **Retention:**
 - Team retention rate: [X]% (target: >90%)

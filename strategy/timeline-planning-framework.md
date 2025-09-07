@@ -10,12 +10,16 @@ Provide a comprehensive framework for creating realistic timelines, setting mile
 - **Buffer Time:** Include appropriate buffers for unknowns and risks
 - **Dependency Management:** Account for external dependencies and delays
 - **Resource Constraints:** Consider team capacity and availability
+- **Human Factors:** Account for team well-being, learning curves, and personal circumstances
+- **Psychological Safety:** Create space for honest estimation without fear of judgment
 
 ### Phased Delivery
 - **Incremental Value:** Deliver value in smaller, manageable chunks
 - **Risk Mitigation:** Reduce risk through early delivery and feedback
 - **Learning Opportunities:** Allow for course correction and improvement
 - **Stakeholder Engagement:** Maintain engagement through regular progress
+- **Team Well-being:** Prevent burnout by avoiding overwhelming timelines
+- **Celebration Points:** Create regular opportunities to recognize progress and achievements
 
 ### Flexibility & Adaptation
 - **Change Management:** Plan for scope and priority changes

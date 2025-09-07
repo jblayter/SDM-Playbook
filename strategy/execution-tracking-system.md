@@ -30,6 +30,9 @@ Provide a comprehensive system for monitoring roadmap execution, tracking progre
 - Milestone achievement and quality metrics
 - Resource utilization and efficiency
 - Risk mitigation and issue resolution
+- **Team well-being** and stress levels during execution
+- **Individual growth** and learning progress
+- **Psychological safety** in reporting challenges and blockers
 
 **Quality Tracking:**
 - Code quality and technical standards

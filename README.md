@@ -21,7 +21,13 @@ At its core, the Software Development Manager role is about service:
 
 ## Getting Started
 
-**New to Software Development Management?** Start here: [Being the Best Software Engineering Manager in the World](./being-the-best.md) - A comprehensive guide covering team leadership, managing up, cross-functional partnerships, and mastering the craft of management.
+**Read this monthly, remind yourself how to be the BEST** [Being the Best Software Engineering Manager in the World](./being-the-best.md) - A comprehensive guide covering team leadership, managing up, cross-functional partnerships, and mastering the craft of management.
+
+**Progress Over Process:** Before diving into the detailed frameworks, read [Progress Over Process Guide](./progress-over-process-guide.md) - Learn how to use these tools to accelerate results rather than create bureaucracy.
+
+**Bias for Action:** Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking. Use these frameworks to make decisions quickly and iterate based on results.
+
+**Frugality:** Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense. Focus on maximizing value and impact with the resources you have.
 
 ## Table of Contents
 
