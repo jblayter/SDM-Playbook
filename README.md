@@ -46,6 +46,15 @@ Frameworks for translating business vision into technical direction and ensuring
 - [Clarifying Questions](./strategy/clarifying-questions.md) - Actionable frameworks for aligning daily engineering with long-term business goals
 - [Creating and Determining Value](./strategy/creating-and-determining-value.md) - Framework for evaluating, creating, and communicating value across customer, business, and engineering dimensions
 - [Translating Outcomes Into Initiatives](./strategy/translating-outcomes-into-initiatives.md) - Step-by-step guide for turning business or customer outcomes into actionable technical initiatives
+- [Roadmap Preparation Playbook](./strategy/roadmap-preparation-playbook.md) - Comprehensive process for preparing engineering inputs to product roadmaps
+- [Team Growth Initiatives Template](./strategy/team-growth-initiatives-template.md) - Map individual development goals to technical projects
+- [Stakeholder Communication Strategy](./strategy/stakeholder-communication-strategy.md) - Tailored communication approaches for different stakeholder types
+- [Resource Planning Framework](./strategy/resource-planning-framework.md) - Budget, headcount, and capacity planning
+- [Risk Management Playbook](./strategy/risk-management-playbook.md) - Risk assessment and mitigation strategies
+- [Success Metrics Framework](./strategy/success-metrics-framework.md) - Measurement and tracking approaches
+- [Cross-Team Coordination Guide](./strategy/cross-team-coordination-guide.md) - Managing dependencies and collaboration
+- [Timeline Planning Framework](./strategy/timeline-planning-framework.md) - Phasing and milestone planning
+- [Execution Tracking System](./strategy/execution-tracking-system.md) - Post-roadmap monitoring and adaptation
 
 ### [System Design](./systemdesign/)
 Frameworks and checklists for designing scalable, reliable systems and conducting effective design reviews.
