@@ -1,7 +1,7 @@
 # Progress Over Process Guide
 
 **Purpose:**  
-This guide explains how to use the SDM-Playbook effectively by focusing on outcomes over activities, results over checklists, and value over bureaucracy.
+This guide explains how to use the SDM-Playbook effectively by focusing on outcomes over activities, results over checklists, and value over bureaucracy. **AGAIN**, this is a guide of different management ideas. You will not using everything here, it is a library of resources to remind you of the lessons from the battles that you have won and lost. 
 
 ## The Philosophy
 
@@ -22,19 +22,19 @@ This guide explains how to use the SDM-Playbook effectively by focusing on outco
 
 ### Start Simple, Add Complexity Only When Needed
 
-**Level 1: Essential (30 minutes)**
+**Level 1: Essential**
 - Use the Quick Start guides in each framework
 - Focus on conversations over documentation
 - Complete only the most critical activities
 - Measure progress with simple questions
 
-**Level 2: Value-Add (1-2 hours)**
+**Level 2: Value-Add**
 - Add more detailed frameworks when time allows
 - Use templates to accelerate work, not create overhead
 - Focus on activities that directly prevent risks or create value
 - Measure progress with key metrics
 
-**Level 3: Comprehensive (2+ hours)**
+**Level 3: Comprehensive**
 - Use full frameworks only for high-stakes initiatives
 - Create detailed documentation only when required
 - Focus on activities that significantly impact outcomes
